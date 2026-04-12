@@ -1,9 +1,41 @@
-# 一些处理金融科技指数数据的python文件
+# Are Distant Knowledge Combinations Always More Disruptive in Patents?
+## Overview
+**Dataset and source code for paper *Are Distant Knowledge Combinations Always More Disruptive in Patents?***
 
-# 从企查查网站上摘录专利数据
+This study revisits the linkage between knowledge recombination and patent disruptiveness from the perspective of knowledge potential energy. Our work includes the following aspects:
+- We construct the **knowledge potential energy indicator** by integrating the intensity and directionality of knowledge flow, which improves the traditional knowledge distance measurement limited to combination frequency.
+- We calculate the 5-year D-index to quantify patent disruptiveness based on patent citation networks.
+- We empirically examine the nonlinear and asymmetric relationship between knowledge potential energy and patent disruptiveness using regression models and asymmetry tests.
+- We explore the boundary conditions of knowledge recombination for fostering disruptive patents.
 
-爬取企查查专利数据.py
+## Main findings
+- Using 1.64 million authorized USPTO utility patents (1980–2024), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness, with the peak at the potential energy threshold of 0.208.
+- Moderate cross-domain knowledge combinations generate the highest disruptive innovation, while **overly homogeneous or overly distant knowledge recombination** both suppress patent disruptiveness.
+- Knowledge recombination presents significant **asymmetry**: switching roles between core knowledge base and supplementary knowledge leads to distinct differences in patent disruptiveness.
+- The knowledge potential energy framework effectively reconciles the conflicting views on knowledge distance and disruptive innovation in existing literature.
 
-# 将摘录的HTML文件转录为EXCEL格式
+## Dataset Description
+- Data source: U.S. Patent and Trademark Office (USPTO) PatentsView database
+- Time span: 1980 – 2024
+- Sample type: Authorized utility patents with multiple classification numbers
+- Final sample: 1,642,514 valid patent entries after cleaning and screening
 
-使用beatifulsoup 处理html.py
+## Quick Start
+1. Configure the required dependencies according to the environment list
+2. Run data preprocessing codes to clean and standardize the raw patent data
+3. Execute indicator calculation scripts to obtain knowledge potential energy and D-index
+4. Run regression and asymmetry test codes to replicate the main empirical results
+
+## Dependency packages
+System environment is set up according to the following configuration:
+- python 3.8+
+- pandas 2.0.0+
+- numpy 1.24.0+
+- networkx 2.8.0+
+- matplotlib 3.8.0+
+- statsmodels 0.14.0+
+- scikit-learn 1.2.0+
+
+## Citation
+Please cite the following paper if you use this code and dataset in your work.
+> Authors. Are Distant Knowledge Combinations Always More Disruptive in Patents? *[Journal Name]*. [[doi]](https://doi.org/xxxx) [[Dataset & Source Code]](https://github.com/[YourUsername]/[RepoName])
