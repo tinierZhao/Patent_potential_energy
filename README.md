@@ -24,7 +24,6 @@ This study revisits the linkage between knowledge recombination and patent disru
 - Data source: [U.S. Patent and Trademark Office (USPTO) PatentsView database](https://www.uspto.gov/ip-policy/economic-research/patentsview#data)
 - Time span: 1980 – 2024
 - Sample type: Authorized utility patents with multiple classification numbers
-- Final sample: 1,642,514 valid patent entries after cleaning and screening
 
 
 ## Dependency packages
