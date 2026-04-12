@@ -15,26 +15,17 @@ This study revisits the linkage between knowledge recombination and patent disru
 - The knowledge potential energy framework effectively reconciles the conflicting views on knowledge distance and disruptive innovation in existing literature.
 
 ## Dataset Description
-- Data source: U.S. Patent and Trademark Office (USPTO) PatentsView database
+- Data source: [U.S. Patent and Trademark Office (USPTO) PatentsView database](https://www.uspto.gov/ip-policy/economic-research/patentsview#data)
 - Time span: 1980 – 2024
 - Sample type: Authorized utility patents with multiple classification numbers
 - Final sample: 1,642,514 valid patent entries after cleaning and screening
 
-## Quick Start
-1. Configure the required dependencies according to the environment list
-2. Run data preprocessing codes to clean and standardize the raw patent data
-3. Execute indicator calculation scripts to obtain knowledge potential energy and D-index
-4. Run regression and asymmetry test codes to replicate the main empirical results
 
 ## Dependency packages
 System environment is set up according to the following configuration:
 - python 3.8+
 - pandas 2.0.0+
 - numpy 1.24.0+
-- networkx 2.8.0+
-- matplotlib 3.8.0+
-- statsmodels 0.14.0+
-- scikit-learn 1.2.0+
 
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
