@@ -9,7 +9,13 @@ This study revisits the linkage between knowledge recombination and patent disru
 - We explore the boundary conditions of knowledge recombination for fostering disruptive patents.
 
 ## Main findings
-- Using 1.64 million authorized USPTO utility patents (1980–2024), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness, with the peak at the potential energy threshold of 0.208.
+- Using 1.64 million authorized USPTO utility patents (1980–2024), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness.
+ <div align="center">
+    <img src="./Fig/Disruptness.png" width=80% height=80%/>
+    </div>
+    <div align="center"><b>Figure 1. Patent quantity distribution and disruptive distribution under different potential energies</b></div>
+
+  
 - Moderate cross-domain knowledge combinations generate the highest disruptive innovation, while **overly homogeneous or overly distant knowledge recombination** both suppress patent disruptiveness.
 - Knowledge recombination presents significant **asymmetry**: switching roles between core knowledge base and supplementary knowledge leads to distinct differences in patent disruptiveness.
 - The knowledge potential energy framework effectively reconciles the conflicting views on knowledge distance and disruptive innovation in existing literature.
