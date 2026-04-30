@@ -34,4 +34,4 @@ System environment is set up according to the following configuration:
 
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
-> Authors. Are Distant Knowledge Combinations Always More Disruptive in Patents? *[Journal Name]*. [[doi]](https://doi.org/xxxx) [[Dataset & Source Code]](https://github.com/[YourUsername]/[RepoName])
+> Zhao et al. Are Distant Knowledge Combinations Always More Disruptive in Patents? *[Journal Name]*. [[doi]](https://doi.org/xxxx) [[Dataset & Source Code]](https://github.com/tinierZhao/Patent_potential_energy/)
