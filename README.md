@@ -11,9 +11,9 @@ This study revisits the linkage between knowledge recombination and patent disru
 ## Main findings
 - Using millions of authorized USPTO utility patents (1980–2024), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness.
  <div align="center">
-    <img src="./Fig/Fig. 7. Patent distribution and average disruptiveness across technological complexity intervals" width=80% height=80%/>
+    <img src="./Fig/Fig. 7. Patent distribution and average disruptiveness across technological complexity intervals.png" width=80% height=80%/>
     </div>
-    <div align="center"><b>Figure 1. Patent quantity distribution and disruptive distribution under different potential energies</b></div>
+    <div align="center"><b>Figure 1. Patent distribution and average disruptiveness across technological complexity intervals</b></div>
 
   
 - Moderate cross-domain knowledge combinations generate the highest disruptive innovation, while **overly homogeneous or overly distant knowledge recombination** both suppress patent disruptiveness.
