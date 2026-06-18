@@ -9,7 +9,7 @@ This study revisits the linkage between knowledge recombination and patent disru
 - We explore the boundary conditions of knowledge recombination for fostering disruptive patents.
 
 ## Main findings
-- Using millions of authorized USPTO utility patents (1980–2024), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness.
+- Using millions of authorized USPTO utility patents (1980–2023), this study identifies an **inverted U-shaped relationship** between knowledge potential energy and patent disruptiveness.
  <div align="center">
     <img src="./image/Fig. 7. Patent distribution and average disruptiveness across technological complexity intervals.png" width=80% height=80%/>
     </div>
@@ -22,7 +22,7 @@ This study revisits the linkage between knowledge recombination and patent disru
 
 ## Dataset Description
 - Data source: [U.S. Patent and Trademark Office (USPTO) PatentsView database](https://www.uspto.gov/ip-policy/economic-research/patentsview#data)
-- Time span: 1980 – 2024
+- Time span: 1980 – 2023
 - Sample type: Authorized utility patents with multiple classification numbers
 
 
